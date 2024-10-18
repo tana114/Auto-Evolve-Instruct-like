@@ -6,8 +6,8 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/tana114/auto-evol-like.git
-   cd auto-evol-like
+   git clone https://github.com/tana114/Auto-Evolve-Instruct-like.git
+   cd Auto-Evolve-Instruct-like
    ```
 
 2. Set up your environment variables:
