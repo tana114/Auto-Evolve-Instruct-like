@@ -15,7 +15,7 @@ import groq
 """ ***********  invork内容のデバック用 ************ """
 import langchain
 
-# Comment out the following if you want to see the details of the process on 'invoke'.
+# Comment out the following if you want to see the details of the 'invoke' process.
 # invoke時の処理の詳細を確認したい場合は下記をコメントアウト
 # langchain.debug = True
 """ ********************************************* """
