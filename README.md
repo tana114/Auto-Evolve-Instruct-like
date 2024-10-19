@@ -2,6 +2,8 @@
 
 *Source: Adaptation of [Automatic Instruction Evolving for Large Language Models](https://arxiv.org/abs/2406.00770)*
 
+This repository is not a strict implementation, just a suggestion.
+
 ## Installation
 
 1. Clone the repository:
